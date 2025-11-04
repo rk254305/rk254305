@@ -1,4 +1,4 @@
-👋 Hi, I’m @Raushan-V
+👋 Hi, I’m Raushan
 
 👀 I’m interested in Data Science
 
