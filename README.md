@@ -2,7 +2,7 @@
 
 👀 I’m interested in Data Science
 
-🌱 I’m currently Deep Learning
+🌱 I’m currently Working as Data Scientist
 
 💞️ I’m looking to work with some big companies
 
