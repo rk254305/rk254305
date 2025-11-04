@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @rk254305
-- 👀 I’m interested in softwares
-- 🌱 I’m currently persuing bca(data science)
-- 📫 reach me at rk254305@gmail.com
-
-<!---
-rk254305/rk254305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Raushan-V
+👀 I’m interested in Data Science
+🌱 I’m currently Deep Learning
+💞️ I’m looking to work with some big companies
+📫 Mail me on workalongraushan@gmail.com OR rk254305@gmail.com
+😄 Data Scientist ⭐
+⚡ Expertise in Data Analysis and AI/ML
